@@ -1,0 +1,21 @@
+.navbar-default {
+    background-color: #b4c157;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-brand {
+    color: black;
+}
+
+#marketing_copy {
+    padding-top: 20px ;
+}
+
+
+#selling_points {
+    padding: 20px 0 40px;
+}
+
