@@ -19,3 +19,12 @@
     padding: 20px 0 40px;
 }
 
+
+.carousel-control.left,
+.carousel-control.right {
+    background-image: none;
+}
+
+.carousel-inner {
+    height: 500px;
+}
